@@ -1,0 +1,135 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Learning React",
+      "author": "Alex Banks, Eve Porcello",
+      "publishedDate": "2022-01-10"
+    },
+    {
+      "id": "2",
+      "title": "React Explained",
+      "author": "Zac Gordon",
+      "publishedDate": "2021-08-15"
+    },
+    {
+      "id": "3",
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "publishedDate": "2019-05-01"
+    },
+    {
+      "id": "4",
+      "title": "You Don’t Know JS",
+      "author": "Kyle Simpson",
+      "publishedDate": "2020-03-20"
+    },
+    {
+      "id": "5",
+      "title": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "publishedDate": "2018-12-04"
+    },
+    {
+      "id": "6",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publishedDate": "2017-09-20"
+    },
+    {
+      "id": "7",
+      "title": "Refactoring UI",
+      "author": "Adam Wathan, Steve Schoger",
+      "publishedDate": "2020-06-01"
+    },
+    {
+      "id": "8",
+      "title": "Design Patterns",
+      "author": "Erich Gamma et al.",
+      "publishedDate": "2016-11-10"
+    }
+  ],
+
+  "bookDetails": [
+    {
+      "id": "1",
+      "title": "Learning React",
+      "author": "Alex Banks, Eve Porcello",
+      "publishedDate": "2022-01-10",
+      "publisher": "O'Reilly Media",
+      "description": "A hands-on guide to building modern web applications using React.",
+      "email": "contact_react1@example.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "title": "React Explained",
+      "author": "Zac Gordon",
+      "publishedDate": "2021-08-15",
+      "publisher": "Fullstack.io",
+      "description": "A fast and simple explanation of React fundamentals.",
+      "email": "contact_react2@example.com",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "publishedDate": "2019-05-01",
+      "publisher": "O'Reilly Media",
+      "description": "Focuses on the elegant and powerful parts of JavaScript.",
+      "email": "contact_js@example.com",
+      "age": 40
+    },
+    {
+      "id": "4",
+      "title": "You Don’t Know JS",
+      "author": "Kyle Simpson",
+      "publishedDate": "2020-03-20",
+      "publisher": "Independently Published",
+      "description": "Deep dive into JavaScript core mechanisms and concepts.",
+      "email": "contact_ydkjs@example.com",
+      "age": 35
+    },
+    {
+      "id": "5",
+      "title": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "publishedDate": "2018-12-04",
+      "publisher": "No Starch Press",
+      "description": "A modern introduction to programming using JavaScript.",
+      "email": "contact_eloquent@example.com",
+      "age": 28
+    },
+    {
+      "id": "6",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publishedDate": "2017-09-20",
+      "publisher": "Prentice Hall",
+      "description": "Best practices for writing clean, maintainable code.",
+      "email": "contact_cleancode@example.com",
+      "age": 45
+    },
+    {
+      "id": "7",
+      "title": "Refactoring UI",
+      "author": "Adam Wathan, Steve Schoger",
+      "publishedDate": "2020-06-01",
+      "publisher": "Refactoring UI Inc.",
+      "description": "Practical design tips for developers without design skills.",
+      "email": "contact_ui@example.com",
+      "age": 32
+    },
+    {
+      "id": "8",
+      "title": "Design Patterns",
+      "author": "Erich Gamma et al.",
+      "publishedDate": "2016-11-10",
+      "publisher": "Addison-Wesley",
+      "description": "Classic book explaining reusable object-oriented design patterns.",
+      "email": "contact_patterns@example.com",
+      "age": 50
+    }
+  ]
+}
